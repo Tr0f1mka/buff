@@ -1,11 +1,11 @@
-<div style="display: flex">
-    <img src="img_readme/python_logo.png">
-    <img src="img_readme/django_logo.png">
-    <img src="img_readme/html_logo.png">
-    <img src="img_readme/javascript_logo.png">
-    <img src="img_readme/css_logo.png">
-    <img src="img_readme/sqlite_logo.png">
-    <img src="img_readme/yandex_map_api_logo.png">
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <img src="img_readme/python_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
+    <img src="img_readme/django_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
+    <img src="img_readme/html_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
+    <img src="img_readme/javascript_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
+    <img src="img_readme/css_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
+    <img src="img_readme/sqlite_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
+    <img src="img_readme/yandex_map_api_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
 </div>
 
 # Благотворительная платформа "Все вместе"
