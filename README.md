@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; width: 100%; background: white;">
+<div style="display: flex; justify-content: space-between; width: 100%; background-color: white;">
     <img src="img_readme/python_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
     <img src="img_readme/django_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
     <img src="img_readme/html_logo.png" style="width: calc(100% / 7 - 10px); height: 150px; object-fit: cover;">
