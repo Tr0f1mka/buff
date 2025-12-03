@@ -1,5 +1,11 @@
 <div style="display: flex">
     <img src="img_readme/python_logo.png">
+    <img src="img_readme/django_logo.png">
+    <img src="img_readme/html_logo.png">
+    <img src="img_readme/javascript_logo.png">
+    <img src="img_readme/css_logo.png">
+    <img src="img_readme/sqlite_logo.png">
+    <img src="img_readme/yandex_map_api_logo.png">
 </div>
 
 # Благотворительная платформа "Все вместе"
